@@ -482,3 +482,5 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/app.db
+client/.claude/CLAUDE.md
+client/.github/copilot-instructions.md
