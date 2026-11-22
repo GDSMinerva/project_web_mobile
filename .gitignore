@@ -484,3 +484,7 @@ API/appsettings.json
 API/app.db
 client/.claude/CLAUDE.md
 client/.github/copilot-instructions.md
+API/app.db-shm
+API/app.db-wal
+.postman/
+postman/
