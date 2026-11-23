@@ -488,3 +488,4 @@ API/app.db-shm
 API/app.db-wal
 .postman/
 postman/
+API/app.db-wal
